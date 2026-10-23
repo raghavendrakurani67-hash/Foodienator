@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+application/logs/*
+!application/logs/index.html
+application/cache/*
+!application/cache/index.html
+01 LOGIN DETAILS & PROJECT INFO.txt
+application/config/database.php
+DATABASE FILE/01 LOGIN DETAILS & PROJECT INFO.txt
+DATABASE FILE/foodorderigniter.sql
